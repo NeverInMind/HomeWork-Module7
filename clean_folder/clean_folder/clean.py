@@ -1,4 +1,4 @@
-from normalize import normalize
+from clean_folder.normalize import normalize
 import sys
 import shutil
 import os
